@@ -1,0 +1,13 @@
+# Lingkungan virtual
+venv/
+env/
+.env
+
+# Jupyter & Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Mengabaikan file model dan dataset yang terlalu besar (Opsional, gunakan jika file > 50MB)
+# *.pkl
+# *.csv
